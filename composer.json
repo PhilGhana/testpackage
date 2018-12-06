@@ -1,7 +1,6 @@
 {
     "name": "wisp1999/helloworld",
     "type": "project",
-    "url": "https://yourpackage.url",
     "authors": [{
         "name": "wisp1999",
         "email": "wips@gmail.com"
