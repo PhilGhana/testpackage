@@ -1,14 +1,14 @@
 {
-    "name": "wisp/helloworld",
+    "name": "wisp1999/helloworld",
     "type": "project",
     "url": "https://yourpackage.url",
     "authors": [{
-        "name": "wisp",
+        "name": "wisp1999",
         "email": "wips@gmail.com"
     }],
     "autoload": {
         "psr-4": {
-            "Wisp\\HelloWorld\\": "packages/wisp/helloworld/src/"
+            "Wisp\\HelloWorld\\": "packages/wisp1999/helloworld/src/"
         }
     },
     "require": {}
