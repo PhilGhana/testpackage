@@ -10,5 +10,7 @@
             "Wisp1999\\HelloWorld\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "oomusou/helloworld": "^1.5"
+    }
 }
