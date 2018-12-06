@@ -1,6 +1,6 @@
 <?php
 
-namespace Wisp\HelloWorld\Model;
+namespace Wisp1999\HelloWorld\Model;
 
 use Illuminate\Database\Eloquent\Model;
 

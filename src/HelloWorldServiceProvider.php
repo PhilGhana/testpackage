@@ -1,6 +1,6 @@
 <?php
 
-namespace Wisp\HelloWorld;
+namespace Wisp1999\HelloWorld;
 
 use Illuminate\Support\ServiceProvider;
 

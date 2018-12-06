@@ -1,9 +1,9 @@
 <?php
 
-namespace Wisp\HelloWorld;
+namespace Wisp1999\HelloWorld;
 
 use App\Http\Controllers\Controller;
-use Wisp\HelloWorld\Model\Test;
+use Wisp1999\HelloWorld\Model\Test;
 
 class HelloWorldController extends Controller
 {
